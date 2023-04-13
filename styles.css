@@ -43,3 +43,9 @@ input{
 	cursor:pointer;
 	color:white;
 }
+select{
+	width:53.5%;
+	font-weight:bold;
+	font-family:cursive;
+	color:blue;
+}
